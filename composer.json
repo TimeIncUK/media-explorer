@@ -1,5 +1,5 @@
 {
-	"name"       : "automattic/media-explorer",
+	"name"       : "timeincuk/media-explorer",
 	"description": "Extends the Media Manager to add support for external media services.",
 	"homepage"   : "https://github.com/Automattic/media-explorer/blob/master/README.md",
 	"type"       : "wordpress-plugin",
