@@ -1,7 +1,7 @@
 {
-	"name"       : "automattic/media-explorer",
-	"description": "Extends the Media Manager to add support for external media services.",
-	"homepage"   : "https://github.com/Automattic/media-explorer/blob/master/README.md",
+	"name"       : "timeincuk/media-explorer",
+	"description": "Extends the Media Manager to add support for external media services (TImeInc fork).",
+	"homepage"   : "https://github.com/TimeIncUK/media-explorer/blob/master/README.md",
 	"type"       : "wordpress-plugin",
 	"license"    : "GPL-2.0+",
 	"authors"    : [
